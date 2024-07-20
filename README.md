@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umair Ali Khan</h1>
-<h3 align="center">An AI/ML enthusiast</h3>
+<h3 align="center">I am passionate about machine learning and devops in the modern tech spaces, inspired to create meaningful solutions using artificial intelligence that have a significant impact.
+</h3>
+<h4 align="center">Reach me at **umairrkhn@icloud.com**</h4>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-- 🔭 I’m currently working on my **Final Year Project**
-
-- 🌱 I’m currently learning **Google Cloud Platform**
-
-- 💬 Ask me about **AI, ML & Deep Learning**
-
-- 📫 Reach me at **umairrkhn@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +17,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairrkhn&show_icons=true&locale=en" alt="umairrkhn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairrkhn&" alt="umairrkhn" /></p>
+
+<p align="start">
+<a href="https://github.com/umairrkhn?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&theme=graywhite&border_color=ddd&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=25" alt="Github Stats" />
+    </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairrkhn&label=Profile%20views&color=0e75b6&style=flat" alt="umairrkhn" /> </p>
