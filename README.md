@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair Ali Khan</h1>
 <h3 align="center">I am passionate about machine learning and devops in the modern tech spaces, inspired to create meaningful solutions using artificial intelligence that have a significant impact.
 </h3>
-<h4 align="center">Reach me at **umairrkhn@icloud.com**</h4>
+<h5 align="center">Reach me at umairrkhn@icloud.com, or contact me on <href src="www.linkedin.com/in/umairrkhn">linkedin</href></h5>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <h3 align="left">Connect with me:</h3>
