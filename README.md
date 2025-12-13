@@ -30,14 +30,12 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairrkhn&show_icons=true&locale=en" alt="umairrkhn" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=umairrkhn&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairrkhn&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairrkhn&" alt="umairrkhn" /></p>
-
-<p align="start">
-<a href="https://github.com/umairrkhn?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&theme=graywhite&border_color=ddd&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=25" alt="Github Stats" />
-    </a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairrkhn&label=Profile%20views&color=0e75b6&style=flat" alt="umairrkhn" /> </p>
