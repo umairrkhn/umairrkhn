@@ -31,10 +31,10 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=umairrkhn&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats-gamma-gules-18.vercel.app/api?username=umairrkhn&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairrkhn&layout=compact&langs_count=8&card_width=540&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats-gamma-gules-18.vercel.app/api/top-langs?username=umairrkhn&layout=compact&langs_count=8&card_width=540&show_icons=true&theme=radical" />
 </a>
 
 
