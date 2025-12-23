@@ -32,10 +32,6 @@
 
 ![Umair's GitHub stats](https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&theme=radical)
 
-<a href="https://github.com/umairrkhn/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs?username=umairrkhn&layout=compact&langs_count=8&card_width=540&show_icons=true&theme=radical" />
-</a>
-
-
+![Top Langs](https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs/?username=umairrkhn&hide_progress=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairrkhn&label=Profile%20views&color=0e75b6&style=flat" alt="umairrkhn" /> </p>
