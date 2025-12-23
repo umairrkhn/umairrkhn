@@ -30,12 +30,12 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://github.com/umairrkhn/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats-eight-sandy-52.vercel.app](https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&theme=radical" />
-</a>
+![Umair's GitHub stats](https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&theme=radical)
+
 <a href="https://github.com/umairrkhn/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs?username=umairrkhn&layout=compact&langs_count=8&card_width=540&show_icons=true&theme=radical" />
 </a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairrkhn&label=Profile%20views&color=0e75b6&style=flat" alt="umairrkhn" /> </p>
