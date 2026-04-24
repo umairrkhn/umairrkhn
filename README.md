@@ -72,7 +72,7 @@ mindset:  curious, pragmatic, shipping-first
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairrkhn&hide_border=true&theme=tokyonight&border_radius=16" />
+  <img src="https://streak-stats.demolab.com?user=umairrkhn&hide_border=true&theme=tokyonight&border_radius=16" />
 </p>
 
 <p align="center">
