@@ -80,14 +80,6 @@ mindset:  curious, pragmatic, shipping-first
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umairrkhn&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairrkhn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/umairrkhn/umairrkhn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
