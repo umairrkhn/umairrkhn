@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/umairrkhn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3200&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Umair+Ali+Khan+%F0%9F%91%8B;Machine+Learning+%7C+DevOps+%7C+AI+Builder;Shipping+meaningful+AI+solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Umair+Ali+Khan+%F0%9F%91%8B;Machine+Learning+%7C+DevOps+%7C+AI+Builder;Shipping+meaningful+AI+solutions." alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umairrkhn&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/umairrkhn?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/umairrkhn?label=Stars&style=for-the-badge&color=0e75b6" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=umairrkhn&label=Profile+views&color=58A6FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/umairrkhn?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
+  <img src="https://img.shields.io/github/stars/umairrkhn?label=Stars&style=for-the-badge&color=58A6FF" alt="stars" />
 </p>
 
 ---
@@ -71,24 +71,24 @@ mindset:  curious, pragmatic, shipping-first
 ### <img src="https://media.giphy.com/media/dvyOZ1OlsmHdC/giphy.gif" width="28"> GitHub stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umairrkhn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&border_radius=16" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umairrkhn&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&border_radius=16" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umairrkhn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=16" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umairrkhn&hide_border=true&theme=tokyonight&border_radius=16" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&hide_border=true&title_color=0e75b6&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umairrkhn&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umairrkhn&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairrkhn&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0b5c93&area=true&area_color=0e75b6&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairrkhn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/umairrkhn/umairrkhn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
