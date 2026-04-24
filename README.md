@@ -76,7 +76,7 @@ mindset:  curious, pragmatic, shipping-first
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages" alt="top langs" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages" alt="top langs" />
 </p>
 
 <p align="center">
