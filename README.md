@@ -68,15 +68,8 @@ mindset:  curious, pragmatic, shipping-first
 ### <img src="https://media.giphy.com/media/dvyOZ1OlsmHdC/giphy.gif" width="28"> GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=16" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umairrkhn&hide_border=true&theme=tokyonight&border_radius=16" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages" />
+  <img width="48%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=16" />
+  <img width="48%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages" />
 </p>
 
 <p align="center">
