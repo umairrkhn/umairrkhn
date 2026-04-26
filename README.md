@@ -5,10 +5,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="420" alt="header gif" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=umairrkhn&label=Profile+views&color=58A6FF&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/umairrkhn?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
   <img src="https://img.shields.io/github/stars/umairrkhn?label=Stars&style=for-the-badge&color=58A6FF" alt="stars" />
@@ -16,7 +12,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+### About me
 
 ```yaml
 name:     Umair Ali Khan
@@ -26,14 +22,9 @@ mission:  turn research into production impact
 mindset:  curious, pragmatic, shipping-first
 ```
 
-- 🧠 Working across **ML, DevOps and modern cloud platforms**
-- ⚙️ Obsessed with **clean pipelines, reproducible experiments, and production reliability**
-- 🚀 Always exploring the **next frontier of applied AI**
-- 💬 Ask me about **Python, TensorFlow, PyTorch, GCP, or MLOps**
-
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect with me
+### Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/umairrkhn" target="_blank">
@@ -49,15 +40,15 @@ mindset:  curious, pragmatic, shipping-first
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Tech stack
+### Tech stack
 
-<h4 align="left">☁️ Cloud, AI & DevOps</h4>
+<h4 align="left">Cloud, AI & DevOps</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,firebase,tensorflow,pytorch,sklearn,docker,kubernetes,git,linux,bash&perline=10" alt="cloud-ai-devops" />
 </p>
 
-<h4 align="left">💻 Languages</h4>
+<h4 align="left">Languages</h4>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,swift,cpp,java,html,css,php&perline=10" alt="languages" />
@@ -65,11 +56,11 @@ mindset:  curious, pragmatic, shipping-first
 
 ---
 
-### <img src="https://media.giphy.com/media/dvyOZ1OlsmHdC/giphy.gif" width="28"> GitHub stats
+### GitHub stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=16" />
-  <img width="42%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages&hide=html,css,jupyter%20notebook" />
+  <img width="48%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=16&show=prs_merged,prs_merged_percentage" />
+  <img width="42%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5" />
 </p>
 
 <p align="center">
