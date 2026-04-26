@@ -24,6 +24,16 @@ mindset:  curious, pragmatic, shipping-first
 
 ---
 
+### Now
+
+```yaml
+working_on:  Production ML systems and cloud-native pipelines
+exploring:   LLM agents, inference optimization, edge deployment
+ask_me:      Python · PyTorch · GCP · MLOps · system design
+```
+
+---
+
 ### Connect
 
 <p align="left">
@@ -61,6 +71,14 @@ mindset:  curious, pragmatic, shipping-first
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api?username=umairrkhn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=16&show=prs_merged,prs_merged_percentage" />
   <img width="42%" src="https://github-readme-stats-eight-sandy-52.vercel.app/api/top-langs/?username=umairrkhn&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=16&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umairrkhn&theme=tokyonight&no-frame=true&column=6&margin-w=6" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairrkhn&theme=tokyo-night&hide_border=true&radius=16" alt="activity graph" />
 </p>
 
 <p align="center">
