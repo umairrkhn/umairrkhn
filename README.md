@@ -74,10 +74,6 @@ ask_me:      Python · PyTorch · GCP · MLOps · system design
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umairrkhn&theme=tokyonight&no-frame=true&column=6&margin-w=6" alt="trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairrkhn&theme=tokyo-night&hide_border=true&radius=16" alt="activity graph" />
 </p>
 
